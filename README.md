@@ -48,10 +48,3 @@ I update demos, contribute to projects, and help local businesses with digital t
 - Open to: collaborations on small business websites, local marketing, and e‑commerce projects
 
 ---
-
-## How to customize
-To change any text, edit this README.md in the repository settings. If you want, I can:
-- Add GitHub Readme Stats & activity cards with private repo counts (requires permission)
-- Add a workflow to auto-update recent activity
-- Add images or a demo GIF for Adile Bakery
-
