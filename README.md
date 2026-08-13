@@ -17,7 +17,7 @@ I help small businesses grow with creative, practical solutions — building web
 
 ## Skills
 - Small business strategy, customer experience, local marketing
-- Website & basic web tools: HTML, CSS, JavaScript
+- Website & basic web tools: HTML, CSS, JavaScript,React,Tailwind,NODEJS,Express,API,POSTGRAL
 - Operations & tooling: Google Workspace, payment integrations, simple CMS setups
 
 (If you want technical badges or additional languages/frameworks listed, tell me which ones and I'll add them.)
